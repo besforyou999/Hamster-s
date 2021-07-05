@@ -9,7 +9,7 @@ def func1():
     wait(1000)
 
 while True:
-    if hamster.acceleration_x() > -2060:
+    if hamster.acceleration_x() > -4000:
         hamster.wheels(100)
     else:
         func1()
