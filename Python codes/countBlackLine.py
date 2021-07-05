@@ -12,6 +12,6 @@ while True:
         print(count)
 
         hamster.wheels(30)
-        wait(100)
+        wait(500)
 
     wait(20)
